@@ -1,5 +1,5 @@
 # 1.1 Think About Time Reflection
-
+My favorite methods from our material were the Seven Counterintuitive Ways to be Productive, The Power of Mediation and The Pomodoro Technique. My current time management plan involves taking breaks and  timing tasks, though there is room to increase focus during periods of work. My current strategy works, but is susceptible to distraction. My method for Phase 0 time manage management includes: establishing a flow first thing in the morning, mediate and take breaks, monitor how long tasks take me and set 25 minute timers to do so. I believe mediation in the morning before beginning DBC material will increase my ability to "get in the zone." I also plan to make use of "time boxing," or devoting periods of time to specific tasks without interruption. 
 
 ## 1.2 The Command Line 
 What is a shell? What is "bash?"
